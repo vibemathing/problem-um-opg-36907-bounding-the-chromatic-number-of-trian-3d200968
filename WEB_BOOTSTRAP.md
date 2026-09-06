@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-opg-36907-bounding-the-chromatic-number-of-trian-3d200968`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359465646`
+- Repository node ID: `R_kgDOUQfMrg`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:um-opg-36907-bounding-the-chromatic-number-of-trian-3d200968`
+- ProblemContract SHA-256: `207ca85688a75ef57a2227b45cd7fe29fb6f5690a32655056c0e6b2d27883277`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.3`
 - Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
-- Harness snapshot SHA-256: `480e6d737bf046c6eebfa084773e4e109f9b14c67f1dd20a1103ef1ca6f4ffbe`
+- Harness snapshot SHA-256: `7bca7005d0a1547be1cdaaaa01ce1b5c4710f4995ecf3dbb38307d14217ccf80`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
